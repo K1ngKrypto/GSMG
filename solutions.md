@@ -13,11 +13,14 @@ Phase 1: gsmg.io/theseedisplanted
        : S -> cha' + (vagh * jav)                                                   === substituting with KLINGON NUMBERS                                   --> 2 + (5*6) = 2+30 = 32
        : Ok kid, on the highway, let put it in the worst gear.                      === reverse the answer
        :
-       : Q = 82 = QWERTYUIOP/1234567890                         -> substituting characters for numbers
-       : B = 25 = BV80605001911AP is an OEM/tray microprocessor -> removing an imaginary/unknown component from a real component and multiplying with itself
-       : H = 42 = Answer to everything (42)                     -> the concept of INVERSE / OPPOSITE / NEGATION
-       : S = 32 = KLINGON NUMBERS (2 + (5*6))                   -> substituting numbers encoded using non-standard numeral terms
-       : 
+       : ## the password was "causality" and we found these "riddles" inside:
+       :   Q = 82 = QWERTYUIOP/1234567890                         -> substituting characters for numbers
+       :   B = 25 = BV80605001911AP is an OEM/tray microprocessor -> removing an imaginary/unknown component from a real component and multiplying with itself
+       :   H = 42 = Answer to everything (42)                     -> the concept of INVERSE / OPPOSITE / NEGATION
+       :   S = 32 = KLINGON NUMBERS (2 + (5*6))                   -> substituting numbers encoded using non-standard numeral terms
+       :   ### Could it be that these 4 "riddles" are showing us "cause and effect" functions for later stages?
+       :   ### Decentraland mp3 stegonography was decoded with H (* -1) on each sample and decoded to "48 41 53 48 54 48 45 54 45 58 54" (HASHTHETEXT)
+       :
        : # X 2 32 42 4 Y 0 82 25 15 # -> put it in reverse == Geographic coordinate written in degrees, minutes, seconds, hemisphere (DMSH) format:
        : 
        :-----------------------------------------------------------------------------------------------
@@ -31,7 +34,7 @@ Phase 1: gsmg.io/theseedisplanted
        :----------------------------------------------------------------------------------------------------
        : LATITUDE        | LONGITUDE       |     
        :-----------------------------------|
-       : 51° 52′ 28.0″ N | 4° 24′ 23.2″ E  |--> (N/E) ==  51.874444,  4.406444  (VCF4+QHG Waalhaven district, Rotterdam, Netherlands)
+       : 51° 52′ 28.0″ N | 4° 24′ 23.2″ E  |--> (N/E) ==  51.874444,  4.406444  (VCF4+QHG Waalhaven district, Rotterdam, Netherlands) <---- Thales 
        : 51° 52′ 28.0″ N | 4° 24′ 23.2″ W  |--> (N/W) ==  51.874444, -4.406444  (VHFV+QCF Carmarthen, United Kingdom)
        : 51° 52′ 28.0″ S | 4° 24′ 23.2″ E  |--> (S/E) == -51.874444,  4.406444  (3FW64CG4+6H Southern Ocean, close to Antarctica)
        : 51° 52′ 28.0″ S | 4° 24′ 23.2″ W  |--> (S/W) == -51.874444, -4.406444  (3CWQ4HGV+6C Southern Ocean, close to Antarctica)
@@ -41,6 +44,10 @@ Phase 1: gsmg.io/theseedisplanted
        : 4° 24′ 23.2″ S  | 51° 52′ 28.0″ E |--> (S/E) ==  -4.406444,  51.874444 (6H7HHVVF+CQ, close to Somalia)
        : 4° 24′ 23.2″ S  | 51° 52′ 28.0″ W |--> (S/W) ==  -4.406444, -51.874444 (687CH4VG+C6, Brazil)
        :----------------------------------
+       :
+       :
+       : The cordinates # 51 52 28 0 N 4 24 23 2 E #  map to Thales that fits the passwords for phase 3, but it seems like alot of work just for that small things.
+       : -> Most likely it has a double-meaning. It's not unlikely that the puzzle was created after the coordinates.
        :
     3.0: causality 
        : Safenet
