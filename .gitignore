@@ -1,0 +1,180 @@
+########################################
+# macOS
+########################################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+*.icloud
+
+########################################
+# Windows
+########################################
+# Windows thumbnails
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows image cache files
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+########################################
+# Linux
+########################################
+# Trash folders
+.Trash-*
+.nfs*
+
+# temp files
+*~
+
+########################################
+# General Development
+########################################
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+*.pid.lock
+
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+########################################
+# Python
+########################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.Python
+env/
+venv/
+ENV/
+.build/
+pip-wheel-metadata/
+*.egg
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+
+########################################
+# Node / JavaScript / TypeScript
+########################################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+*.tsbuildinfo
+
+########################################
+# C / C++ / Rust / Go / Java (common artifacts)
+########################################
+
+# C/C++
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Rust
+target/
+
+# Go
+*.exe
+*.test
+*.prof
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+########################################
+# Archives
+########################################
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+########################################
+# IDEs / Editors
+########################################
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+########################################
+# Git
+########################################
+.gitignore_global
+
+########################################
+# Misc
+########################################
+*.orig
+*.rej
+*.crt
+*.pem
+*.key
+
